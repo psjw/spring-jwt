@@ -15,3 +15,5 @@ spring:
     url: jdbc:mysql://localhost:3306/jwtsecurity?useSSL=false&useUnicode=true&serverTimezone=Asia/Seoul&allowPublicKeyRetrieval=true
     username: jwt
     password: jwt1234
+  jwt:
+    secret: IXhSYek8yzsXYkx2jp8/nXZS9lfjYnmdM6F2p+8iYjx/DH/5C/OObuZNJ64eMEptIIokSrXCLXmsI8c9FwuTvg==
